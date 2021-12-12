@@ -1,0 +1,69 @@
+body{
+    
+    background-color:#708090;
+    -webkit-background-size: cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size: cover;
+}
+
+h1{
+    font-size: 2.3rem;
+    font-weight: bold;
+}
+
+.immage{
+    position: relative;
+    left: -14px;
+    width: 600px;
+     height:50%;
+}
+
+.ndices{
+
+    background-color:#708090;
+    -webkit-background-size: cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size: cover;
+}
+
+.ndice{
+    margin-top: 200px;
+}
+
+@media (max-width:1000px) {
+    .ndices{
+        margin-top: -150px;
+    }
+    
+    }
+
+.Gallery{
+    margin-top: 100px;
+    left: 80px;
+}
+
+.amaka{
+    position: relative;
+    left:-37px;
+}
+
+.oluchi{
+    position: relative;
+    left:-100px ;
+}
+
+.ndi{
+    position: relative;
+    left: -120px;
+}
+
+img{
+    height: 60%;
+    width: 350px;
+}
+
+.social-icon {
+    margin: 20px 10px;
+  }
